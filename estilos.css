@@ -1,0 +1,31 @@
+body{
+    margin:0;
+}
+/*comentario*/
+
+h1{
+    font-family:cursive;
+    font-size:5em;
+    color:#c00;
+}
+
+#tituloPrincipal {
+    color:blue;
+}
+
+.contorno {
+    border:1px red solid; 
+}
+
+.coluna{
+    border:1px green solid;
+    display:inline-block;
+    width:32%;
+    
+}
+
+.coluna-4{
+    border: 1px green solid;
+    display:inline-block;
+    width:24%;
+}
